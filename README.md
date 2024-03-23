@@ -1,13 +1,15 @@
+<img align="center" alt="Coding" width="1000" height="100" src="https://25.media.tumblr.com/c091d05d92d09204b565cbc8b5e33580/tumblr_mvjddzjR1h1shpedgo1_500.gif" >
+
 <h1 align="center">Welcome to my profile MahmoudNofaal</h1>
 <h3 align="center">My exceptional discipline drives excellence</h3>
 <h3 align="center">Nofaal | .NET Developer & Competitive Programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 
 - 💬 Ask me about **my experience with C++, C#, and Competitive Programming.**
 
 - 📫 How to reach me **ma7nemahmoud73@gmail.com**
 
 - ⚡ Fun fact **I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.**
+<img align="right" alt="Coding" width="300" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFqY21rY2c1Z2hydTlxMm92emM2Z3JtdjhjeGsyN2pmMmN3a2NnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kIUNwdOPkjeM4nEmk7/giphy.gif" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
