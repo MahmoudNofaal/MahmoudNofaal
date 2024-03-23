@@ -1,8 +1,11 @@
 <img align="center" alt="Coding" width="1000" height="100" src="https://25.media.tumblr.com/c091d05d92d09204b565cbc8b5e33580/tumblr_mvjddzjR1h1shpedgo1_500.gif" >
 
-<h1 align="center">Welcome To My Profile MahmoudNofaal</h1>
+<h1 align="center">Welcome To My Profile MahmoudNofaal🕷️</h1>
 <h3 align="center">Nofaal | .NET Developer & Competitive Programmer</h3>
-<h3 align="center">[ My Exceptional Discipline Drives Excellence ]</h3>
+
+
+
+- > 🕸️ [ My Exceptional Discipline Drives Excellence ]
 
 - 💬 Ask me about **my experience with C++, C#, and Competitive Programming.**
 
