@@ -5,7 +5,7 @@
 
 
 
-- > 🕸️ [ My Exceptional Discipline Drives Excellence ]
+> 🕸️ [ My Exceptional Discipline Drives Excellence ]
 
 - 💬 Ask me about **my experience with C++, C#, and Competitive Programming.**
 
