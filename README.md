@@ -1,4 +1,5 @@
 <h1 align="center">Welcome to my profile MahmoudNofaal</h1>
+<h3 align="center">My exceptional discipline drives excellence</h3>
 <h3 align="center">Nofaal | .NET Developer & Competitive Programmer</h3>
 
 - 💬 Ask me about **my experience with C++, C#, and Competitive Programming.**
