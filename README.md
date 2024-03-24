@@ -17,9 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mahmoud-abdelnaby-215bb1256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-abdelnaby-215bb1256/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100010202710656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010202710656" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/jmahmoudd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jmahmoudd/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/nofaal02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/nofaal02" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010202710656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010202710656" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jmahmoudd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jmahmoudd/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Nofaal73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/nofaal02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
