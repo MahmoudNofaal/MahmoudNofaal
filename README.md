@@ -7,7 +7,7 @@
 
 > 🕸️ [ My Exceptional Discipline Drives Excellence ]
 
-- 💬 Experinced in C#, Entity Frameworks, LINQ, ASP.Net MVC, Problem Solving
+- 💬 Experienced in C#, Entity Frameworks, LINQ, ASP.Net MVC, Problem Solving
 
 - 📫 How to reach me **ma7nemahmoud73@gmail.com**
 
