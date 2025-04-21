@@ -1,17 +1,16 @@
 <img align="center" alt="Coding" width="1000" height="100" src="https://25.media.tumblr.com/c091d05d92d09204b565cbc8b5e33580/tumblr_mvjddzjR1h1shpedgo1_500.gif" >
 
-<h1 align="center">Welcome To My Profile MahmoudNofaal🕷️</h1>
-<h3 align="center">Nofaal | .NET Backend Developer</h3>
+<h1 align="center">Welcome To My Profile 🕸️</h1>
+<h3 align="center">MahmoudNofaal | .NET Backend Engineer</h3>
 
 
 
-> 🕸️ [ My Exceptional Discipline Drives Excellence ]
+> 🕷️ [ My Exceptional Discipline Drives Excellence ]
 
-- 💬 Experienced in C#, Entity Frameworks, LINQ, ASP.Net MVC, Problem Solving
+- 💬 Experienced in C#, Problem Solving, LINQ, Entity Frameworks, API, ASP.Net MVC
 
-- 📫 How to reach me **ma7nemahmoud73@gmail.com**
+- 📫 How to reach me **ma7nemahmoud73@gmail.com**, *+201012653212*
 
-- ⚡ Fun fact **I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.**
 <img align="right" alt="Coding" width="300" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFqY21rY2c1Z2hydTlxMm92emM2Z3JtdjhjeGsyN2pmMmN3a2NnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kIUNwdOPkjeM4nEmk7/giphy.gif" >
 
 <h3 align="left">Connect with me:</h3>
