@@ -1,85 +1,19 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header" width="100%"/>
-
-# Mahmoud Nofaal
-
-**AI Engineer · Backend Engineer · Builder**
-
-*Understand deeply. Build boldly.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abdelnaby-215bb1256/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ma7nemahmoud73@gmail.com)
-
-</div>
-
----
-
-<br/>
-
-## About
-
-I'm an AI Engineer with a backend foundation — I spent years building robust systems in `.NET` and `C#`, and now I build intelligent ones.
-
-My work lives at the edge of **LLMs**, **Generative AI**, and **AI-powered products** — engineering systems that don't just run, but think. I care about the craft: clean architecture, deep understanding, and software that holds up under real conditions.
-
-I'm Egyptian. I build for the world.
-
-> *"The best engineers understand the problem so well  
-> the solution becomes obvious."*
-
-<br/>
-
----
-
-## Stack
-
-**AI & Intelligence**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=flat-square&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6D28D9?style=flat-square&logoColor=white)
-
-**Backend & Systems**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logoColor=white)
-
-**Foundations**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Data Structures](https://img.shields.io/badge/DSA-FF4154?style=flat-square&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
-
-<br/>
-
----
-
-## Consistency
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoudnofaal&theme=tokyonight&hide_border=true&background=0f0f0f&ring=6D28D9&fire=FF6F00&currStreakLabel=ffffff&sideLabels=888888&dates=555555)](https://github.com/mahmoudnofaal)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-*Cairo, Egypt · Open to global opportunities*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
-
-</div>
+<img align="center" alt="Coding" width="1000" height="100" src="https://25.media.tumblr.com/c091d05d92d09204b565cbc8b5e33580/tumblr_mvjddzjR1h1shpedgo1_500.gif" >
+<h1 align="center">Welcome To My Profile 🕸️</h1>
+<h3 align="center">MahmoudNofaal | .NET Backend Engineer</h3>
+> 🕷️ [ My Exceptional Discipline Drives Excellence ]
+- 💬 Experienced in C#, Problem Solving, LINQ, Entity Frameworks, API, ASP.Net MVC
+- 📫 How to reach me **ma7nemahmoud73@gmail.com**, *+201012653212*
+<img align="right" alt="Coding" width="300" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFqY21rY2c1Z2hydTlxMm92emM2Z3JtdjhjeGsyN2pmMmN3a2NnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kIUNwdOPkjeM4nEmk7/giphy.gif" >
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mahmoud-abdelnaby-215bb1256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-abdelnaby-215bb1256/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010202710656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010202710656" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jmahmoudd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jmahmoudd/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Nofaal73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/nofaal02" height="30" width="40" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudnofaal&show_icons=true&locale=en&layout=compact" alt="mahmoudnofaal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudnofaal&show_icons=true&locale=en" alt="mahmoudnofaal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudnofaal&" alt="mahmoudnofaal" /></p>
