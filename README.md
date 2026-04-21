@@ -79,9 +79,6 @@ Built as a personal compounding reference. A habit of writing down what I unders
 ---
 
 ## Philosophy
-
-> I read source code when things break. I build before I claim to know something.  
-> I document what I understand — because writing clearly is how I know I actually understand it.
 >
 > Good engineering is not about the number of frameworks you know.  
 > It is about the depth at which you understand the ones that matter.
